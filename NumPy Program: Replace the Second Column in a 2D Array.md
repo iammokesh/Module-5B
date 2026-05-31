@@ -42,7 +42,8 @@ print("Updated Array:")
 print(arr)
 ```
 ## Output
-<img width="447" height="62" alt="Screenshot 2026-05-29 190231" src="https://github.com/user-attachments/assets/6687939f-ea27-44d4-ad9c-ba35d332c0a3" />
+<img width="680" height="242" alt="Screenshot 2026-05-31 182343" src="https://github.com/user-attachments/assets/dd5bfe5f-83b4-470f-a001-187037e029ab" />
+
 
 
 
